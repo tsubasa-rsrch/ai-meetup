@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Private
+private/
+drafts/
+.env
+
+# Logs
+*.log
